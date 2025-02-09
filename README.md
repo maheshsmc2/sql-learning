@@ -1,1 +1,1 @@
-# sql-learning
+# sql-learnings
